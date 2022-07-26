@@ -1,0 +1,35 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: #016f32;
+  line-height: 1.7;
+  color: white;
+  text-align: center;
+}
+button {
+  cursor: pointer;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 3rem;
+}
+p {
+  font-size: 1.5rem;
+}
+#message-el {
+  font-style: italic;
+}
+#startGame,
+#newcard-el {
+  padding: 10px 0;
+  width: 150px;
+  background-color: goldenrod;
+  border-radius: 5px;
+  color: #016f32;
+  border: none;
+  font-weight: bold;
+}
+#newcard-el {
+  margin-top: 4px;
+}
